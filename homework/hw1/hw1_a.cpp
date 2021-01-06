@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#define SIZE 10
+#define SIZE 9
 using namespace std;
 
 void printTable(int table[][SIZE], int row);
